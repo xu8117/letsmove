@@ -1,3 +1,4 @@
+/*
 module task08::task08 {
 
     use std::ascii::String;
@@ -46,3 +47,4 @@ module task08::task08 {
         assert!(prefix_sum == 0, 100);
     }
 }
+*/
